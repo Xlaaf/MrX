@@ -6,7 +6,7 @@ simple to use.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/anzilr/MrX)
 
-Can be found on telegram as [Marie](https://t.me/BanhammerMarie_bot).
+Can be found on telegram as [Mr X](https://t.me/mrxthebot).
 
 Marie and I are moderating a [support group](https://t.me/MarieSupport), where you can ask for help setting up your
 bot, discover/request new features, report bugs, and stay in the loop whenever a new update is available. Of course
