@@ -1,4 +1,3 @@
-
 {
   "name": "Marie",
   "description": "Telegram's sassiest group manager. Modular Telegram group management bot!",
@@ -80,7 +79,7 @@
     {
       "plan": "heroku-postgresql",
       "options": {
-        "version": "9.5"
+        "version": "10"
       }
     }
   ]
